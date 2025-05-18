@@ -1,0 +1,124 @@
+﻿ID,Age,Gender,Exposure,Current,Use,S1Q1,S1Q2,S2Q1,S2Q2,S3Q1,S3Q2,S4Q1,S4Q2,S5Q1,S5Q2,S6Q1,S6Q2
+1,30 - 39,Male,Relative,Good understanding,Good understanding use cases,No,Extremely uncomfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,No,Extremely uncomfortable
+2,20 - 29,Female,Relative,Never heard,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+3,20 - 29,Male,Have had,Good understanding,Know some use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+4,< 20,Female,Relative,Good understanding,Some idea,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+5,< 20,Male,Nil,Heard basic understanding,No idea,Yes,Neutral,No,Uncomfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,No,Uncomfortable
+6,20 - 29,Male,Relative,Heard but know nothing,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+7,20 - 29,Male,Have had,Good understanding,Know some use cases,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+8,30 - 39,Female,Have had,Heard but know nothing,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+9,20 - 29,Female,Relative,Heard basic understanding,Know some use cases,Yes,Comfortable,Yes,Comfortable,Unsure,Neutral,Yes,Extremely comfortable,Yes,Comfortable,Yes,Neutral
+10,20 - 29,Male,Relative,Good understanding,No idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+11,20 - 29,Female,Have had,Never heard,Some idea,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Neutral,Yes,Uncomfortable
+12,< 20,Male,Have had,Good understanding,Know some use cases,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Neutral
+13,50 - 59,Female,Have had,Heard basic understanding,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Unsure,Uncomfortable,Unsure,Neutral
+14,20 - 29,Male,Have had,Never heard,Good understanding use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+15,20 - 29,Female,Have had,Heard basic understanding,No idea,Yes,Comfortable,Unsure,Uncomfortable,Unsure,Neutral,Yes,Extremely comfortable,No,Uncomfortable,Yes,Comfortable
+16,20 - 29,Male,Have had,Heard basic understanding,Some idea,Unsure,Neutral,No,Uncomfortable,Unsure,Neutral,Yes,Comfortable,Yes,Neutral,Unsure,Neutral
+17,20 - 29,Male,Nil,Heard but know nothing,Some idea,Yes,Comfortable,Yes,Neutral,Yes,Uncomfortable,Yes,Extremely comfortable,No,Neutral,Unsure,Uncomfortable
+18,40 - 49,Female,Have had,Heard basic understanding,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+19,20 - 29,Female,Relative,Heard but know nothing,Some idea,Yes,Extremely comfortable,Unsure,Uncomfortable,Yes,Neutral,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+20,40 - 49,Male,Nil,Heard basic understanding,Know some use cases,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+21,20 - 29,Female,Relative,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+22,50 - 59,Male,Relative,Good understanding,No idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+23,30 - 39,Female,Relative,Heard basic understanding,Some idea,Yes,Neutral,Unsure,Uncomfortable,Yes,Comfortable,Unsure,Neutral,No,Neutral,Unsure,Uncomfortable
+24,50 - 59,Female,Have had,Never heard,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Unsure,Uncomfortable
+25,20 - 29,Female,Nil,Heard basic understanding,Know some use cases,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,No,Neutral,No,Comfortable,No,Neutral
+26,20 - 29,Male,Have had,Good understanding,Know some use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+27,> 60,Male,Have had,Heard but know nothing,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable
+28,< 20,Male,Nil,Heard but know nothing,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Neutral
+29,20 - 29,Male,Nil,Heard basic understanding,Some idea,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Neutral,Yes,Uncomfortable
+30,20 - 29,Female,Relative,Heard basic understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+31,20 - 29,Male,Have had,Heard basic understanding,Some idea,Yes,Neutral,Yes,Extremely comfortable,Unsure,Neutral,Yes,Extremely comfortable,Unsure,Uncomfortable,Yes,Comfortable
+32,20 - 29,Male,Have had,Heard basic understanding,Some idea,Unsure,Uncomfortable,Unsure,Uncomfortable,Unsure,Uncomfortable,Unsure,Uncomfortable,Unsure,Uncomfortable,Unsure,Uncomfortable
+33,> 60,Female,Scheduled,Heard basic understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+34,20 - 29,Male,Relative,Good understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+35,20 - 29,Male,Nil,Heard but know nothing,Know some use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Neutral,Yes,Extremely comfortable,Yes,Neutral,Yes,Comfortable
+36,20 - 29,Female,Relative,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Uncomfortable
+37,20 - 29,Female,Have had,Heard but know nothing,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+38,20 - 29,Male,Have had,Heard but know nothing,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Unsure,Neutral,Yes,Extremely comfortable,Yes,Extremely comfortable,Unsure,Uncomfortable
+39,20 - 29,Male,Have had,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+40,40 - 49,Male,Have had,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+41,50 - 59,Male,Have had,Good understanding,Good understanding use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+42,20 - 29,Female,Nil,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Neutral,Yes,Extremely comfortable,Yes,Extremely comfortable,Unsure,Neutral,Yes,Extremely comfortable
+43,30 - 39,Female,Have had,Heard basic understanding,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Neutral,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+44,20 - 29,Female,Relative,Heard but know nothing,No idea,Yes,Neutral,Yes,Uncomfortable,Yes,Comfortable,Yes,Extremely comfortable,Unsure,Neutral,Yes,Comfortable
+45,20 - 29,Female,Have had,Heard basic understanding,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+46,20 - 29,Female,Have had,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+47,> 60,Female,Have had,Good understanding,Know some use cases,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+48,40 - 49,Female,Nil,Heard but know nothing,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable
+49,40 - 49,Female,Scheduled,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+50,40 - 49,Male,Have had,Good understanding,Know some use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+51,30 - 39,Male,Have had,Heard basic understanding,Know some use cases,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+52,> 60,Female,Relative,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable
+53,> 60,Female,Have had,Heard basic understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+54,40 - 49,Female,Have had,Heard basic understanding,Know some use cases,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,No,Comfortable,No,Uncomfortable,Yes,Neutral
+55,50 - 59,Female,Have had,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+56,40 - 49,Female,Have had,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+57,> 60,Male,Nil,Heard but know nothing,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+58,50 - 59,Female,Have had,Heard but know nothing,No idea,Unsure,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Unsure,Neutral
+59,50 - 59,Female,Have had,Never heard,No idea,Yes,Comfortable,Unsure,Neutral,Unsure,Neutral,Yes,Comfortable,Yes,Comfortable,Unsure,Neutral
+60,50 - 59,Female,Have had,Never heard,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+61,40 - 49,Female,Have had,Heard but know nothing,No idea,Yes,Neutral,No,Extremely uncomfortable,Unsure,Uncomfortable,Yes,Neutral,No,Uncomfortable,No,Extremely uncomfortable
+62,50 - 59,Female,Relative,Heard but know nothing,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Neutral
+63,50 - 59,Female,Have had,Heard basic understanding,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Neutral,Yes,Comfortable,Yes,Comfortable
+64,40 - 49,Female,Have had,Heard basic understanding,No idea,Yes,Extremely comfortable,Unsure,Neutral,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+65,> 60,Female,Nil,Never heard,Some idea,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+66,40 - 49,Female,Relative,Never heard,No idea,Yes,Extremely comfortable,Unsure,Neutral,Unsure,Neutral,Yes,Extremely comfortable,Yes,Neutral,Unsure,Neutral
+67,40 - 49,Female,Relative,Heard basic understanding,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+68,40 - 49,Female,Nil,Never heard,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Neutral,Yes,Extremely comfortable,Unsure,Neutral,Yes,Comfortable
+69,> 60,Female,Have had,Heard basic understanding,Good understanding use cases,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+70,20 - 29,Female,Have had,Heard basic understanding,Know some use cases,Yes,Neutral,Yes,Comfortable,Yes,Neutral,Yes,Extremely comfortable,Unsure,Uncomfortable,Yes,Comfortable
+71,40 - 49,Male,Have had,Good understanding,Good understanding use cases,Yes,Extremely comfortable,Unsure,Neutral,Unsure,Neutral,Unsure,Neutral,Unsure,Neutral,Yes,Comfortable
+72,20 - 29,Male,Have had,Heard basic understanding,Some idea,Unsure,Uncomfortable,No,Extremely uncomfortable,No,Extremely uncomfortable,Yes,Comfortable,No,Extremely uncomfortable,Yes,Neutral
+73,> 60,Female,Have had,Never heard,Some idea,Yes,Neutral,Unsure,Neutral,Unsure,Neutral,Yes,Extremely comfortable,Unsure,Neutral,No,Extremely uncomfortable
+74,50 - 59,Female,Relative,Never heard,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+75,30 - 39,Prefer not to say,Have had,Heard basic understanding,No idea,Unsure,Neutral,Unsure,Uncomfortable,Unsure,Uncomfortable,Yes,Comfortable,Unsure,Extremely uncomfortable,Unsure,Neutral
+76,30 - 39,Female,Have had,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+77,50 - 59,Female,Have had,Good understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+78,> 60,Female,Relative,Heard but know nothing,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Neutral
+79,40 - 49,Female,Have had,Good understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+80,50 - 59,Female,Have had,Heard but know nothing,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+81,50 - 59,Female,Scheduled,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+82,> 60,Female,Have had,Good understanding,No idea,Yes,Neutral,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+83,50 - 59,Female,Have had,Heard basic understanding,Good understanding use cases,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+84,40 - 49,Male,Have had,Expert,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+85,50 - 59,Male,Have had,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable
+86,50 - 59,Female,Nil,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+87,> 60,Female,Have had,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+88,> 60,Male,Relative,Good understanding,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,No,Uncomfortable,Yes,Comfortable
+89,40 - 49,Male,Have had,Heard but know nothing,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+90,50 - 59,Female,Have had,Heard basic understanding,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+91,> 60,Female,Have had,Good understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+92,30 - 39,Male,Have had,Good understanding,Good understanding use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Unsure,Comfortable,Yes,Extremely comfortable
+93,> 60,Male,Have had,Good understanding,Know some use cases,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Unsure,Neutral,Yes,Comfortable
+94,> 60,Female,Relative,Never heard,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Neutral,Yes,Comfortable
+95,> 60,Female,Have had,Good understanding,Good understanding use cases,Unsure,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+96,50 - 59,Female,Have had,Heard basic understanding,Some idea,Unsure,Neutral,Yes,Comfortable,Yes,Comfortable,Unsure,Neutral,No,Uncomfortable,Unsure,Uncomfortable
+97,50 - 59,Female,Have had,Heard basic understanding,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+98,> 60,Female,Have had,Never heard,Some idea,Yes,Comfortable,Unsure,Uncomfortable,Yes,Neutral,Yes,Extremely comfortable,Yes,Comfortable,No,Uncomfortable
+99,> 60,Female,Nil,Heard but know nothing,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+100,30 - 39,Female,Have had,Good understanding,Some idea,Yes,Comfortable,Yes,Comfortable,Unsure,Uncomfortable,Yes,Extremely comfortable,Yes,Neutral,Yes,Comfortable
+101,50 - 59,Female,Relative,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+102,50 - 59,Female,Have had,Heard but know nothing,Some idea,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable
+103,> 60,Female,Relative,Heard basic understanding,Know some use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Unsure,Neutral,Yes,Extremely comfortable
+104,20 - 29,Female,Nil,Heard but know nothing,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+105,40 - 49,Female,Have had,Never heard,No idea,Yes,Comfortable,Yes,Extremely comfortable,Unsure,Neutral,Yes,Extremely comfortable,Unsure,Neutral,Unsure,Uncomfortable
+106,> 60,Male,Have had,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+107,40 - 49,Female,Relative,Good understanding,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Unsure,Uncomfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Neutral
+108,> 60,Female,Have had,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+109,30 - 39,Female,Have had,Never heard,Know some use cases,Yes,Comfortable,Yes,Comfortable,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Comfortable
+110,50 - 59,Female,Scheduled,Heard basic understanding,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Unsure,Neutral
+111,40 - 49,Male,Scheduled,Good understanding,Good understanding use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+112,20 - 29,Male,Have had,Good understanding,Know some use cases,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+113,50 - 59,Female,Have had,Never heard,Some idea,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+114,> 60,Female,Have had,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+115,> 60,Male,Have had,Heard basic understanding,Know some use cases,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+116,50 - 59,Female,Have had,Good understanding,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+117,> 60,Female,Have had,Good understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+118,40 - 49,Female,Have had,Heard but know nothing,No idea,Yes,Comfortable,Yes,Comfortable,Yes,Extremely comfortable,Yes,Comfortable,Yes,Comfortable,Yes,Neutral
+119,40 - 49,Female,Nil,Never heard,Some idea,Yes,Neutral,Yes,Neutral,No,Uncomfortable,Yes,Neutral,No,Neutral,No,Uncomfortable
+120,40 - 49,Female,Relative,Heard basic understanding,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Comfortable
+121,> 60,Female,Relative,Never heard,No idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
+122,> 60,Male,Have had,Good understanding,Know some use cases,Yes,Comfortable,Yes,Neutral,Yes,Neutral,Yes,Comfortable,Yes,Comfortable,Yes,Neutral
+123,50 - 59,Female,Have had,Heard but know nothing,Some idea,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable,Yes,Extremely comfortable
